@@ -1,0 +1,26 @@
+Skill,Job Count,Percent of Jobs
+Python,2312,33.3
+SQL,1609,23.1
+AWS,818,11.8
+Spark,783,11.3
+Azure,713,10.3
+Tableau,522,7.5
+Excel,374,5.4
+MySQL,241,3.5
+GCP,223,3.2
+Git,151,2.2
+Statistics,133,1.9
+NLP,130,1.9
+Airflow,112,1.6
+TensorFlow,80,1.2
+PostgreSQL,72,1.0
+Pandas,66,0.9
+BigQuery,63,0.9
+NumPy,53,0.8
+Alteryx,28,0.4
+Scikit-learn,15,0.2
+dbt,10,0.1
+Looker,9,0.1
+Looker Studio,0,0.0
+Power BI,0,0.0
+Power Query,0,0.0
